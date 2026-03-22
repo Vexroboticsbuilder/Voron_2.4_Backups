@@ -12,7 +12,7 @@
     "width": 800,
     "height": 480,
     "dpi": 133,
-    "rotation": 0
+    "rotation": 180
   },
   "gcode_viewer": {
     "shading_model": "phong",
