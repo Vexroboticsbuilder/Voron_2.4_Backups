@@ -62,10 +62,10 @@
       },
       "extra_sensors": {},
       "fans": {
-        "chamber": "",
+        "chamber": "fan_generic nevermore",
         "exhaust": "",
-        "hotend": "heater_fan hotend_fan",
-        "part": "fan"
+        "hotend": "heater_fan controller_fan_1",
+        "part": "fan_generic ANT0_partfan"
       },
       "filament_sensors": {
         "sensors": null
@@ -148,17 +148,10 @@
         "macro_devices": [],
         "selected": [],
         "selected_strips": [
-          "neopixel chamber",
-          "neopixel HBB_LED",
-          "neopixel tool0",
-          "neopixel tool1",
-          "neopixel tool2",
-          "neopixel tool3",
-          "neopixel tool4",
-          "neopixel tool5"
+          "neopixel chamber"
         ],
         "startup_brightness": 80,
-        "strip": ""
+        "strip": "neopixel chamber"
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
