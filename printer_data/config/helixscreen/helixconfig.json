@@ -527,11 +527,14 @@
             "rowspan": 1
           },
           {
-            "col": 3,
+            "col": 4,
             "colspan": 1,
+            "config": {
+              "macro": "COOL_DOWN"
+            },
             "enabled": true,
             "id": "favorite_macro:11",
-            "row": 1,
+            "row": 3,
             "rowspan": 1
           }
         ]
