@@ -525,6 +525,14 @@
             "id": "favorite_macro:10",
             "row": 3,
             "rowspan": 1
+          },
+          {
+            "col": 3,
+            "colspan": 1,
+            "enabled": true,
+            "id": "favorite_macro:11",
+            "row": 1,
+            "rowspan": 1
           }
         ]
       },
