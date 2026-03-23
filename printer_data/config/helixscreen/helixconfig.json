@@ -318,11 +318,16 @@
             "rowspan": 1
           },
           {
-            "col": -1,
+            "col": 2,
             "colspan": 1,
-            "enabled": false,
+            "config": {
+              "sensors": [
+                "temperature_sensor chamber"
+              ]
+            },
+            "enabled": true,
             "id": "thermistor",
-            "row": -1,
+            "row": 0,
             "rowspan": 1
           },
           {
