@@ -230,11 +230,11 @@
             "rowspan": 1
           },
           {
-            "col": 2,
+            "col": 3,
             "colspan": 1,
             "enabled": true,
             "id": "ams",
-            "row": 0,
+            "row": 3,
             "rowspan": 1
           },
           {
@@ -465,6 +465,14 @@
             "enabled": true,
             "id": "favorite_macro:6",
             "row": 2,
+            "rowspan": 1
+          },
+          {
+            "col": 2,
+            "colspan": 1,
+            "enabled": true,
+            "id": "favorite_macro:7",
+            "row": 0,
             "rowspan": 1
           }
         ]
