@@ -334,11 +334,11 @@
             "rowspan": 1
           },
           {
-            "col": -1,
+            "col": 2,
             "colspan": 2,
             "enabled": false,
             "id": "job_queue",
-            "row": -1,
+            "row": 0,
             "rowspan": 2
           },
           {
