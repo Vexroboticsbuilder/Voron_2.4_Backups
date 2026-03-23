@@ -232,7 +232,7 @@
           {
             "col": 3,
             "colspan": 1,
-            "enabled": true,
+            "enabled": false,
             "id": "ams",
             "row": 3,
             "rowspan": 1
@@ -270,11 +270,11 @@
             "rowspan": 1
           },
           {
-            "col": 4,
+            "col": 5,
             "colspan": 1,
             "enabled": true,
             "id": "bed_temperature",
-            "row": 3,
+            "row": 1,
             "rowspan": 1
           },
           {
@@ -468,11 +468,11 @@
             "rowspan": 1
           },
           {
-            "col": 2,
+            "col": 0,
             "colspan": 1,
             "enabled": true,
             "id": "favorite_macro:7",
-            "row": 0,
+            "row": 3,
             "rowspan": 1
           }
         ]
