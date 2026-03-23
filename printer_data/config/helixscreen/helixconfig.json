@@ -323,9 +323,7 @@
             "col": 4,
             "colspan": 1,
             "config": {
-              "display_mode": "carousel",
               "sensors": [
-                "temperature_sensor chamber",
                 "temperature_sensor _MCU"
               ]
             },
