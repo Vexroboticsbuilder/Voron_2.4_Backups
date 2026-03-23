@@ -288,7 +288,7 @@
           {
             "col": 3,
             "colspan": 1,
-            "enabled": true,
+            "enabled": false,
             "id": "temp_stack",
             "row": 1,
             "rowspan": 1
