@@ -444,6 +444,11 @@
           {
             "col": 4,
             "colspan": 1,
+            "config": {
+              "color": 16733986,
+              "icon": "filament",
+              "macro": "T4"
+            },
             "enabled": true,
             "id": "favorite_macro:5",
             "row": 2,
