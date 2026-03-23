@@ -516,6 +516,11 @@
           {
             "col": 3,
             "colspan": 1,
+            "config": {
+              "color": 15022389,
+              "icon": "fire",
+              "macro": "PLA"
+            },
             "enabled": true,
             "id": "favorite_macro:10",
             "row": 3,
