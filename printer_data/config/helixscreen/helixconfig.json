@@ -429,11 +429,14 @@
             "rowspan": 1
           },
           {
-            "col": 2,
+            "col": 3,
             "colspan": 1,
+            "config": {
+              "macro": "T3"
+            },
             "enabled": true,
             "id": "favorite_macro:4",
-            "row": 0,
+            "row": 2,
             "rowspan": 1
           }
         ]
