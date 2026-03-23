@@ -432,6 +432,8 @@
             "col": 3,
             "colspan": 1,
             "config": {
+              "color": 15022389,
+              "icon": "filament",
               "macro": "T3"
             },
             "enabled": true,
