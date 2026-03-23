@@ -240,7 +240,7 @@
           {
             "col": 0,
             "colspan": 1,
-            "enabled": true,
+            "enabled": false,
             "id": "led",
             "row": 3,
             "rowspan": 1
@@ -270,11 +270,11 @@
             "rowspan": 1
           },
           {
-            "col": -1,
+            "col": 2,
             "colspan": 1,
-            "enabled": false,
+            "enabled": true,
             "id": "bed_temperature",
-            "row": -1,
+            "row": 0,
             "rowspan": 1
           },
           {
