@@ -440,6 +440,14 @@
             "id": "favorite_macro:4",
             "row": 2,
             "rowspan": 1
+          },
+          {
+            "col": 4,
+            "colspan": 1,
+            "enabled": true,
+            "id": "favorite_macro:5",
+            "row": 2,
+            "rowspan": 1
           }
         ]
       },
