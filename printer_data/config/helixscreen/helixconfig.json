@@ -569,6 +569,7 @@
             "colspan": 1,
             "config": {
               "color": 15277667,
+              "icon": "lightbulb_outline",
               "macro": ""
             },
             "enabled": true,
