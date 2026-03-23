@@ -393,6 +393,8 @@
             "col": 0,
             "colspan": 1,
             "config": {
+              "color": 9159498,
+              "icon": "filament",
               "macro": "T0"
             },
             "enabled": true,
