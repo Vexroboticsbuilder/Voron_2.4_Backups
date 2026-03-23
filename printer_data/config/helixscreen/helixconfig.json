@@ -542,6 +542,10 @@
           {
             "col": 2,
             "colspan": 1,
+            "config": {
+              "icon": "lightbulb_outline",
+              "macro": ""
+            },
             "enabled": true,
             "id": "favorite_macro:12",
             "row": 0,
