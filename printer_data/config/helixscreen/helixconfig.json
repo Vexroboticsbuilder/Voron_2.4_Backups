@@ -280,7 +280,7 @@
           {
             "col": 1,
             "colspan": 3,
-            "enabled": true,
+            "enabled": false,
             "id": "preheat",
             "row": 3,
             "rowspan": 1
