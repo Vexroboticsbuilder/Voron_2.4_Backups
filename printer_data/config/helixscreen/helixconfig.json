@@ -457,6 +457,11 @@
           {
             "col": 5,
             "colspan": 1,
+            "config": {
+              "color": 16761095,
+              "icon": "filament",
+              "macro": "T5"
+            },
             "enabled": true,
             "id": "favorite_macro:6",
             "row": 2,
