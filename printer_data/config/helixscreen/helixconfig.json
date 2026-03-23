@@ -554,6 +554,11 @@
           {
             "col": 3,
             "colspan": 1,
+            "config": {
+              "color": 16777215,
+              "icon": "lightbulb_outline",
+              "macro": "PRINTING_LIGHTS"
+            },
             "enabled": true,
             "id": "favorite_macro:13",
             "row": 0,
