@@ -391,6 +391,7 @@
           }
         ]
       },
+      "printer_name": "Lunar Dust",
       "temp_sensors": {
         "bed": "heater_bed",
         "hotend": "extruder"
