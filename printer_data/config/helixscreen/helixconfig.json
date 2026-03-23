@@ -477,6 +477,9 @@
           {
             "col": 0,
             "colspan": 1,
+            "config": {
+              "macro": "PREHEAT_ABS"
+            },
             "enabled": true,
             "id": "favorite_macro:7",
             "row": 3,
