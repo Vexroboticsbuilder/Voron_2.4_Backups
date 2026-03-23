@@ -264,9 +264,9 @@
             "rowspan": 1
           },
           {
-            "col": 3,
-            "colspan": 1,
-            "enabled": true,
+            "col": 2,
+            "colspan": 2,
+            "enabled": false,
             "id": "temperature",
             "row": 0,
             "rowspan": 1
