@@ -455,11 +455,11 @@
             "rowspan": 1
           },
           {
-            "col": 2,
+            "col": 5,
             "colspan": 1,
             "enabled": true,
             "id": "favorite_macro:6",
-            "row": 0,
+            "row": 2,
             "rowspan": 1
           }
         ]
