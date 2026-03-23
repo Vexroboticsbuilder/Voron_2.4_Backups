@@ -240,7 +240,7 @@
           {
             "col": 2,
             "colspan": 1,
-            "enabled": true,
+            "enabled": false,
             "id": "led",
             "row": 3,
             "rowspan": 1
