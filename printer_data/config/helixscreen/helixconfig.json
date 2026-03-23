@@ -517,7 +517,7 @@
             "col": 3,
             "colspan": 1,
             "config": {
-              "color": 15022389,
+              "color": 16733986,
               "icon": "fire",
               "macro": "PLA"
             },
@@ -530,6 +530,8 @@
             "col": 4,
             "colspan": 1,
             "config": {
+              "color": 2001125,
+              "icon": "cooldown",
               "macro": "COOL_DOWN"
             },
             "enabled": true,
