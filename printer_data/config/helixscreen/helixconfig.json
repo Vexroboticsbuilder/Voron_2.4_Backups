@@ -238,9 +238,9 @@
             "rowspan": 1
           },
           {
-            "col": 2,
+            "col": 0,
             "colspan": 1,
-            "enabled": false,
+            "enabled": true,
             "id": "led",
             "row": 3,
             "rowspan": 1
@@ -420,7 +420,7 @@
   "ui": {
     "cached_grid": {
       "home": {
-        "rows": 3
+        "rows": 4
       }
     }
   },
