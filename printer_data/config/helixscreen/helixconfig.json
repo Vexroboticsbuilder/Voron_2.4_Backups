@@ -503,6 +503,9 @@
           {
             "col": 2,
             "colspan": 1,
+            "config": {
+              "macro": "PRIME_LINES"
+            },
             "enabled": true,
             "id": "favorite_macro:9",
             "row": 3,
