@@ -232,7 +232,7 @@
           {
             "col": 5,
             "colspan": 1,
-            "enabled": true,
+            "enabled": false,
             "id": "ams",
             "row": 2,
             "rowspan": 1
@@ -256,7 +256,7 @@
           {
             "col": 3,
             "colspan": 1,
-            "enabled": true,
+            "enabled": false,
             "id": "fan_stack",
             "row": 3,
             "rowspan": 1
@@ -264,7 +264,7 @@
           {
             "col": 4,
             "colspan": 1,
-            "enabled": true,
+            "enabled": false,
             "id": "temperature",
             "row": 3,
             "rowspan": 1
