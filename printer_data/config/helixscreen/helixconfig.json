@@ -544,7 +544,7 @@
             "colspan": 1,
             "config": {
               "icon": "lightbulb_outline",
-              "macro": ""
+              "macro": "LIGHTS_OFF"
             },
             "enabled": true,
             "id": "favorite_macro:12",
