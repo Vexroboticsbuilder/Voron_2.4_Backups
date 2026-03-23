@@ -427,6 +427,14 @@
             "id": "favorite_macro:3",
             "row": 2,
             "rowspan": 1
+          },
+          {
+            "col": 2,
+            "colspan": 1,
+            "enabled": true,
+            "id": "favorite_macro:4",
+            "row": 0,
+            "rowspan": 1
           }
         ]
       },
