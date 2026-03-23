@@ -71,7 +71,14 @@
         "sensors": null
       },
       "hardware": {
-        "expected": [],
+        "expected": [
+          "heater_bed",
+          "extruder",
+          "fan_generic ANT0_partfan",
+          "heater_fan controller_fan_1",
+          "neopixel chamber",
+          "toolchanger"
+        ],
         "last_snapshot": {
           "fans": [
             "fan_generic nevermore",
@@ -123,7 +130,7 @@
             "temperature_sensor _ANT4_temp",
             "temperature_sensor _ANT5_temp"
           ],
-          "timestamp": "2026-03-23T17:30:09Z"
+          "timestamp": "2026-03-23T17:30:42Z"
         },
         "optional": []
       },
@@ -177,7 +184,7 @@
           {
             "col": 2,
             "colspan": 4,
-            "enabled": true,
+            "enabled": false,
             "id": "tips",
             "row": 0,
             "rowspan": 2
@@ -389,7 +396,8 @@
         "bed": "heater_bed",
         "hotend": "extruder"
       },
-      "type": "Voron 2.4"
+      "type": "Voron 2.4",
+      "wizard_completed": true
     },
     "show_printer_switcher": false
   },
@@ -402,5 +410,6 @@
         "rows": 4
       }
     }
-  }
+  },
+  "wizard_completed": true
 }
