@@ -30,7 +30,15 @@
     "touch_device": ""
   },
   "language": "en",
+  "led": {
+    "selected_strips": null
+  },
   "log_path": "/tmp/helixscreen.log",
+  "printer": {
+    "leds": {
+      "startup_brightness": null
+    }
+  },
   "printers": {
     "default": {
       "default_macros": {
@@ -59,9 +67,64 @@
         "hotend": "heater_fan hotend_fan",
         "part": "fan"
       },
+      "filament_sensors": {
+        "sensors": null
+      },
       "hardware": {
         "expected": [],
-        "last_snapshot": {},
+        "last_snapshot": {
+          "fans": [
+            "fan_generic nevermore",
+            "heater_fan controller_fan_1",
+            "heater_fan controller_fan_2",
+            "temperature_fan _CB2",
+            "fan_generic ANT0_partfan",
+            "heater_fan ANT0_hotend_fan",
+            "fan_generic ANT1_partfan",
+            "heater_fan ANT1_hotend_fan",
+            "fan_generic ANT2_partfan",
+            "heater_fan ANT2_hotend_fan",
+            "fan_generic ANT3_partfan",
+            "heater_fan ANT3_hotend_fan",
+            "fan_generic ANT4_partfan",
+            "heater_fan ANT4_hotend_fan",
+            "fan_generic ANT5_partfan",
+            "heater_fan ANT5_hotend_fan"
+          ],
+          "filament_sensors": [],
+          "heaters": [
+            "heater_bed",
+            "extruder",
+            "extruder1",
+            "extruder2",
+            "extruder3",
+            "extruder4",
+            "extruder5"
+          ],
+          "leds": [
+            "output_pin caselight",
+            "neopixel chamber",
+            "neopixel HBB_LED",
+            "neopixel tool0",
+            "neopixel tool1",
+            "neopixel tool2",
+            "neopixel tool3",
+            "neopixel tool4",
+            "neopixel tool5"
+          ],
+          "sensors": [
+            "temperature_sensor _MCU",
+            "temperature_sensor chamber",
+            "temperature_fan _CB2",
+            "temperature_sensor _ANT0_temp",
+            "temperature_sensor _ANT1_temp",
+            "temperature_sensor _ANT2_temp",
+            "temperature_sensor _ANT3_temp",
+            "temperature_sensor _ANT4_temp",
+            "temperature_sensor _ANT5_temp"
+          ],
+          "timestamp": "2026-03-23T17:30:09Z"
+        },
         "optional": []
       },
       "heaters": {
@@ -69,7 +132,32 @@
         "hotend": "extruder"
       },
       "leds": {
+        "color_presets": [
+          "#FFFFFF",
+          "#FFD700",
+          "#FF6B35",
+          "#4FC3F7",
+          "#FF4444",
+          "#66BB6A",
+          "#9C27B0",
+          "#00BCD4"
+        ],
+        "last_brightness": 100,
+        "last_color": "#FFFFFF",
+        "led_on_at_start": false,
+        "macro_devices": [],
         "selected": [],
+        "selected_strips": [
+          "neopixel chamber",
+          "neopixel HBB_LED",
+          "neopixel tool0",
+          "neopixel tool1",
+          "neopixel tool2",
+          "neopixel tool3",
+          "neopixel tool4",
+          "neopixel tool5"
+        ],
+        "startup_brightness": 80,
         "strip": ""
       },
       "moonraker_api_key": false,
@@ -142,19 +230,19 @@
             "rowspan": 1
           },
           {
-            "col": -1,
+            "col": 5,
             "colspan": 1,
             "enabled": true,
             "id": "ams",
-            "row": -1,
+            "row": 2,
             "rowspan": 1
           },
           {
-            "col": -1,
+            "col": 2,
             "colspan": 1,
             "enabled": true,
             "id": "led",
-            "row": -1,
+            "row": 3,
             "rowspan": 1
           },
           {
@@ -306,7 +394,8 @@
       "temp_sensors": {
         "bed": "heater_bed",
         "hotend": "extruder"
-      }
+      },
+      "type": "Voron 2.4"
     },
     "show_printer_switcher": false
   },
