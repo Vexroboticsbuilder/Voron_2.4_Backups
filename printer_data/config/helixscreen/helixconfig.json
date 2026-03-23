@@ -369,7 +369,7 @@
             "colspan": 1,
             "enabled": true,
             "id": "gcode_console",
-            "row": 1,
+            "row": 0,
             "rowspan": 1
           },
           {
@@ -540,7 +540,7 @@
             "rowspan": 1
           },
           {
-            "col": 2,
+            "col": 0,
             "colspan": 1,
             "config": {
               "color": 8421504,
@@ -549,11 +549,11 @@
             },
             "enabled": true,
             "id": "favorite_macro:12",
-            "row": 0,
+            "row": 1,
             "rowspan": 1
           },
           {
-            "col": 3,
+            "col": 2,
             "colspan": 1,
             "config": {
               "color": 16777215,
@@ -562,11 +562,11 @@
             },
             "enabled": true,
             "id": "favorite_macro:13",
-            "row": 0,
+            "row": 1,
             "rowspan": 1
           },
           {
-            "col": 2,
+            "col": 3,
             "colspan": 1,
             "config": {
               "color": 15277667,
