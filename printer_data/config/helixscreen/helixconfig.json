@@ -278,11 +278,11 @@
             "rowspan": 1
           },
           {
-            "col": -1,
+            "col": 1,
             "colspan": 3,
-            "enabled": false,
+            "enabled": true,
             "id": "preheat",
-            "row": -1,
+            "row": 3,
             "rowspan": 1
           },
           {
