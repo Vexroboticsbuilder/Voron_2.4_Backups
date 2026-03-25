@@ -509,6 +509,10 @@
                 {
                   "col": 3,
                   "colspan": 1,
+                  "config": {
+                    "color": 16750592,
+                    "macro": "PRIME_LINES"
+                  },
                   "enabled": true,
                   "id": "favorite_macro:6",
                   "row": 3,
