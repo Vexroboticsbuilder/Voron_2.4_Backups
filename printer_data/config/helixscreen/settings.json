@@ -444,6 +444,10 @@
                 {
                   "col": 3,
                   "colspan": 1,
+                  "config": {
+                    "color": 15022389,
+                    "macro": "PLA"
+                  },
                   "enabled": true,
                   "id": "favorite_macro:1",
                   "row": 2,
