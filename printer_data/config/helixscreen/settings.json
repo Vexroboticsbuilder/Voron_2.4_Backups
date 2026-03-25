@@ -451,6 +451,7 @@
                   "col": 2,
                   "colspan": 1,
                   "config": {
+                    "color": 38536,
                     "icon": "lightbulb_outline",
                     "macro": "RAINBOW_LIGHTS"
                   },
