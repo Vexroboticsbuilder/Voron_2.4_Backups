@@ -339,9 +339,9 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 4,
+                  "col": 0,
                   "colspan": 2,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "clock",
                   "row": 0,
                   "rowspan": 1
