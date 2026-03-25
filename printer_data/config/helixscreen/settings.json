@@ -224,7 +224,7 @@
                 {
                   "col": 4,
                   "colspan": 1,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "network",
                   "row": 1,
                   "rowspan": 1
