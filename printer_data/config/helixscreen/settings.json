@@ -572,19 +572,6 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 3,
-                  "colspan": 1,
-                  "config": {
-                    "color": 15277667,
-                    "icon": "lightbulb_outline",
-                    "macro": "RAINBOW_LIGHTS"
-                  },
-                  "enabled": true,
-                  "id": "favorite_macro:14",
-                  "row": 1,
-                  "rowspan": 1
-                },
-                {
                   "col": -1,
                   "colspan": 1,
                   "enabled": false,
