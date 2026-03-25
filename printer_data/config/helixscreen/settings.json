@@ -478,6 +478,11 @@
                 {
                   "col": 2,
                   "colspan": 1,
+                  "config": {
+                    "color": 15022389,
+                    "icon": "fire",
+                    "macro": "ABS"
+                  },
                   "enabled": true,
                   "id": "favorite_macro:4",
                   "row": 2,
