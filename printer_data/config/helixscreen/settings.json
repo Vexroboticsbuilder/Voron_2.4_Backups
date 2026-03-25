@@ -184,7 +184,7 @@
                 {
                   "col": 0,
                   "colspan": 2,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "print_status",
                   "row": 0,
                   "rowspan": 2
@@ -280,7 +280,7 @@
                 {
                   "col": 5,
                   "colspan": 1,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "bed_temperature",
                   "row": 1,
                   "rowspan": 1
@@ -464,19 +464,6 @@
                   },
                   "enabled": true,
                   "id": "favorite_macro:7",
-                  "row": 3,
-                  "rowspan": 1
-                },
-                {
-                  "col": 1,
-                  "colspan": 1,
-                  "config": {
-                    "color": 16733986,
-                    "icon": "fire",
-                    "macro": "ABS"
-                  },
-                  "enabled": true,
-                  "id": "favorite_macro:8",
                   "row": 3,
                   "rowspan": 1
                 },
