@@ -333,7 +333,7 @@
                       "temperature_sensor chamber"
                     ]
                   },
-                  "enabled": true,
+                  "enabled": false,
                   "id": "thermistor",
                   "row": 1,
                   "rowspan": 1
@@ -373,7 +373,7 @@
                 {
                   "col": 3,
                   "colspan": 1,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "gcode_console",
                   "row": 0,
                   "rowspan": 1
@@ -543,32 +543,6 @@
                   "enabled": true,
                   "id": "favorite_macro:11",
                   "row": 3,
-                  "rowspan": 1
-                },
-                {
-                  "col": 2,
-                  "colspan": 1,
-                  "config": {
-                    "color": 8421504,
-                    "icon": "lightbulb_outline",
-                    "macro": "LIGHTS_OFF"
-                  },
-                  "enabled": true,
-                  "id": "favorite_macro:12",
-                  "row": 0,
-                  "rowspan": 1
-                },
-                {
-                  "col": 2,
-                  "colspan": 1,
-                  "config": {
-                    "color": 16777215,
-                    "icon": "lightbulb_outline",
-                    "macro": "PRINTING_LIGHTS"
-                  },
-                  "enabled": true,
-                  "id": "favorite_macro:13",
-                  "row": 1,
                   "rowspan": 1
                 },
                 {
