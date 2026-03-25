@@ -222,11 +222,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": -1,
+                  "col": 4,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "network",
-                  "row": -1,
+                  "row": 1,
                   "rowspan": 1
                 },
                 {
