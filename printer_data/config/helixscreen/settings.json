@@ -403,19 +403,19 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 3,
+                  "col": 1,
                   "colspan": 1,
                   "enabled": true,
                   "id": "tool_switcher",
-                  "row": 0,
+                  "row": 2,
                   "rowspan": 2
                 },
                 {
-                  "col": 2,
+                  "col": 0,
                   "colspan": 1,
                   "enabled": true,
                   "id": "nozzle_temps",
-                  "row": 0,
+                  "row": 2,
                   "rowspan": 2
                 },
                 {
@@ -448,7 +448,7 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 4,
+                  "col": 2,
                   "colspan": 1,
                   "enabled": true,
                   "id": "favorite_macro:3",
