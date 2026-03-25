@@ -432,6 +432,7 @@
                   "col": 2,
                   "colspan": 1,
                   "config": {
+                    "icon": "home_thermometer",
                     "sensors": [
                       "temperature_sensor chamber"
                     ]
@@ -524,7 +525,7 @@
                   "colspan": 1,
                   "config": {
                     "sensors": [
-                      "temperature_sensor chamber"
+                      "temperature_sensor _MCU"
                     ]
                   },
                   "enabled": true,
