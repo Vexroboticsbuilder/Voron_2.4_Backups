@@ -288,6 +288,9 @@
                 {
                   "col": 2,
                   "colspan": 2,
+                  "config": {
+                    "material_index": 2
+                  },
                   "enabled": true,
                   "id": "preheat",
                   "row": 0,
