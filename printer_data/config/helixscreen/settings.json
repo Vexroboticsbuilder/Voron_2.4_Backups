@@ -530,7 +530,7 @@
                   },
                   "enabled": true,
                   "id": "thermistor:2",
-                  "row": 1,
+                  "row": 0,
                   "rowspan": 1
                 },
                 {
