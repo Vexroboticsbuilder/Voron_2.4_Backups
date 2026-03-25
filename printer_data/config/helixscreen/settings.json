@@ -424,7 +424,7 @@
                   "enabled": true,
                   "id": "temp_graph:1",
                   "row": 2,
-                  "rowspan": 2
+                  "rowspan": 1
                 }
               ]
             }
