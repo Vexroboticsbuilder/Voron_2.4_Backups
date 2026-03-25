@@ -286,11 +286,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 0,
+                  "col": 4,
                   "colspan": 2,
                   "enabled": true,
                   "id": "preheat",
-                  "row": 2,
+                  "row": 1,
                   "rowspan": 1
                 },
                 {
@@ -448,11 +448,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 1,
+                  "col": 4,
                   "colspan": 1,
                   "enabled": true,
                   "id": "favorite_macro:3",
-                  "row": 3,
+                  "row": 2,
                   "rowspan": 1
                 }
               ]
