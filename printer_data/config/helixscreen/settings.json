@@ -286,7 +286,7 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 4,
+                  "col": 0,
                   "colspan": 2,
                   "enabled": true,
                   "id": "preheat",
@@ -343,7 +343,7 @@
                   "colspan": 2,
                   "enabled": true,
                   "id": "clock",
-                  "row": 1,
+                  "row": 0,
                   "rowspan": 1
                 },
                 {
