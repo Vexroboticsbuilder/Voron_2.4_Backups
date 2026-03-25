@@ -403,7 +403,7 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 0,
+                  "col": 5,
                   "colspan": 1,
                   "enabled": true,
                   "id": "tool_switcher",
