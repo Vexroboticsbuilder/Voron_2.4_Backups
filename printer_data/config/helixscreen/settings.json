@@ -538,7 +538,8 @@
                   "colspan": 1,
                   "config": {
                     "color": 2001125,
-                    "macro": ""
+                    "icon": "cooldown",
+                    "macro": "COOL_DOWN"
                   },
                   "enabled": true,
                   "id": "favorite_macro:7",
