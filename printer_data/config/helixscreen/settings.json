@@ -444,6 +444,7 @@
                   "colspan": 1,
                   "config": {
                     "color": 16733986,
+                    "icon": "lightbulb_outline",
                     "macro": "HEATING_LIGHTS"
                   },
                   "enabled": true,
