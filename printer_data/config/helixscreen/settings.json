@@ -298,7 +298,7 @@
                   "config": {
                     "material_index": 2
                   },
-                  "enabled": true,
+                  "enabled": false,
                   "id": "preheat",
                   "row": 0,
                   "rowspan": 1
