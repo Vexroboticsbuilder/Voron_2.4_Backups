@@ -229,11 +229,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 0,
+                  "col": 3,
                   "colspan": 1,
                   "enabled": true,
                   "id": "network",
-                  "row": 3,
+                  "row": 1,
                   "rowspan": 1
                 },
                 {
@@ -534,7 +534,7 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 4,
+                  "col": 1,
                   "colspan": 1,
                   "config": {
                     "color": 2001125,
