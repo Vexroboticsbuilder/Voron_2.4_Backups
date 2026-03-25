@@ -511,6 +511,7 @@
                   "colspan": 1,
                   "config": {
                     "color": 16750592,
+                    "icon": "fire",
                     "macro": "PRIME_LINES"
                   },
                   "enabled": true,
