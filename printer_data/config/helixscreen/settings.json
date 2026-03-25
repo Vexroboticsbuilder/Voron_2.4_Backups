@@ -411,11 +411,11 @@
                   "rowspan": 2
                 },
                 {
-                  "col": -1,
+                  "col": 1,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "nozzle_temps",
-                  "row": -1,
+                  "row": 2,
                   "rowspan": 2
                 }
               ]
