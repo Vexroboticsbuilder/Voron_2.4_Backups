@@ -450,6 +450,10 @@
                 {
                   "col": 2,
                   "colspan": 1,
+                  "config": {
+                    "icon": "lightbulb_outline",
+                    "macro": "RAINBOW_LIGHTS"
+                  },
                   "enabled": true,
                   "id": "favorite_macro:3",
                   "row": 2,
