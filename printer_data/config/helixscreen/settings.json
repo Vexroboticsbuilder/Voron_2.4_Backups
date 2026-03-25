@@ -446,6 +446,7 @@
                   "colspan": 1,
                   "config": {
                     "color": 15022389,
+                    "icon": "fire",
                     "macro": "PLA"
                   },
                   "enabled": true,
