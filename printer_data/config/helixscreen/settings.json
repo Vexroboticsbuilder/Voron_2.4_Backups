@@ -229,11 +229,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 3,
+                  "col": 4,
                   "colspan": 1,
                   "enabled": true,
                   "id": "network",
-                  "row": 1,
+                  "row": 3,
                   "rowspan": 1
                 },
                 {
@@ -513,7 +513,7 @@
                   "config": {
                     "color": 16750592,
                     "icon": "fire",
-                    "macro": "PRIME_LINES"
+                    "macro": "PREHEAT_PLA"
                   },
                   "enabled": true,
                   "id": "favorite_macro:6",
