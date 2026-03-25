@@ -200,7 +200,7 @@
                 {
                   "col": 5,
                   "colspan": 1,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "shutdown",
                   "row": 3,
                   "rowspan": 1
@@ -341,7 +341,7 @@
                 {
                   "col": 4,
                   "colspan": 2,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "clock",
                   "row": 0,
                   "rowspan": 1
@@ -403,71 +403,6 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 0,
-                  "colspan": 1,
-                  "config": {
-                    "color": 9159498,
-                    "icon": "filament",
-                    "macro": "T0"
-                  },
-                  "enabled": true,
-                  "id": "favorite_macro:1",
-                  "row": 2,
-                  "rowspan": 1
-                },
-                {
-                  "col": 1,
-                  "colspan": 1,
-                  "config": {
-                    "color": 4149685,
-                    "icon": "filament",
-                    "macro": "T1"
-                  },
-                  "enabled": true,
-                  "id": "favorite_macro:2",
-                  "row": 2,
-                  "rowspan": 1
-                },
-                {
-                  "col": 2,
-                  "colspan": 1,
-                  "config": {
-                    "color": 8069026,
-                    "icon": "filament",
-                    "macro": "T2"
-                  },
-                  "enabled": true,
-                  "id": "favorite_macro:3",
-                  "row": 2,
-                  "rowspan": 1
-                },
-                {
-                  "col": 3,
-                  "colspan": 1,
-                  "config": {
-                    "color": 15022389,
-                    "icon": "filament",
-                    "macro": "T3"
-                  },
-                  "enabled": true,
-                  "id": "favorite_macro:4",
-                  "row": 2,
-                  "rowspan": 1
-                },
-                {
-                  "col": 0,
-                  "colspan": 1,
-                  "config": {
-                    "color": 16771899,
-                    "icon": "fire",
-                    "macro": "PREHEAT_ABS"
-                  },
-                  "enabled": true,
-                  "id": "favorite_macro:7",
-                  "row": 3,
-                  "rowspan": 1
-                },
-                {
                   "col": -1,
                   "colspan": 1,
                   "enabled": false,
@@ -504,7 +439,7 @@
   "ui": {
     "cached_grid": {
       "home": {
-        "rows": 4
+        "rows": 1
       }
     }
   },
