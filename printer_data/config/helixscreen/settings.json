@@ -429,7 +429,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 2,
+                  "col": 3,
                   "colspan": 1,
                   "config": {
                     "icon": "home_thermometer",
