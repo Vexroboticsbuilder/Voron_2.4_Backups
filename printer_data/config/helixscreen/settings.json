@@ -496,6 +496,10 @@
                 {
                   "col": 2,
                   "colspan": 1,
+                  "config": {
+                    "color": 16750592,
+                    "macro": "PREHEAT_ABS"
+                  },
                   "enabled": true,
                   "id": "favorite_macro:5",
                   "row": 3,
