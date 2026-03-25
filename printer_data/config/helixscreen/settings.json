@@ -36,6 +36,13 @@
     "selected_strips": null
   },
   "log_path": "/tmp/helixscreen.log",
+  "material_overrides": {
+    "ABS": {
+      "bed_temp": 105,
+      "nozzle_max": 245,
+      "nozzle_min": 245
+    }
+  },
   "printer": {
     "leds": {
       "startup_brightness": null
