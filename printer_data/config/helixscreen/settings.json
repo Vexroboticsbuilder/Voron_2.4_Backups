@@ -286,9 +286,9 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 1,
+                  "col": 0,
                   "colspan": 3,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "preheat",
                   "row": 3,
                   "rowspan": 1
