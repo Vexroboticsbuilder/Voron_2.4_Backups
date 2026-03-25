@@ -455,32 +455,6 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 4,
-                  "colspan": 1,
-                  "config": {
-                    "color": 16733986,
-                    "icon": "filament",
-                    "macro": "T4"
-                  },
-                  "enabled": true,
-                  "id": "favorite_macro:5",
-                  "row": 2,
-                  "rowspan": 1
-                },
-                {
-                  "col": 5,
-                  "colspan": 1,
-                  "config": {
-                    "color": 16761095,
-                    "icon": "filament",
-                    "macro": "T5"
-                  },
-                  "enabled": true,
-                  "id": "favorite_macro:6",
-                  "row": 2,
-                  "rowspan": 1
-                },
-                {
                   "col": 0,
                   "colspan": 1,
                   "config": {
@@ -503,45 +477,6 @@
                   },
                   "enabled": true,
                   "id": "favorite_macro:8",
-                  "row": 3,
-                  "rowspan": 1
-                },
-                {
-                  "col": 2,
-                  "colspan": 1,
-                  "config": {
-                    "color": 16771899,
-                    "icon": "fire",
-                    "macro": "PREHEAT_PLA"
-                  },
-                  "enabled": true,
-                  "id": "favorite_macro:9",
-                  "row": 3,
-                  "rowspan": 1
-                },
-                {
-                  "col": 3,
-                  "colspan": 1,
-                  "config": {
-                    "color": 16733986,
-                    "icon": "fire",
-                    "macro": "PLA"
-                  },
-                  "enabled": true,
-                  "id": "favorite_macro:10",
-                  "row": 3,
-                  "rowspan": 1
-                },
-                {
-                  "col": 4,
-                  "colspan": 1,
-                  "config": {
-                    "color": 2001125,
-                    "icon": "cooldown",
-                    "macro": "COOL_DOWN"
-                  },
-                  "enabled": true,
-                  "id": "favorite_macro:11",
                   "row": 3,
                   "rowspan": 1
                 },
