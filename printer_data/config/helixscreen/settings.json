@@ -339,11 +339,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 2,
+                  "col": 4,
                   "colspan": 2,
                   "enabled": true,
                   "id": "clock",
-                  "row": 0,
+                  "row": 2,
                   "rowspan": 1
                 },
                 {
@@ -411,11 +411,11 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 4,
+                  "col": 2,
                   "colspan": 1,
                   "enabled": true,
                   "id": "nozzle_temps",
-                  "row": 0,
+                  "row": 2,
                   "rowspan": 2
                 },
                 {
