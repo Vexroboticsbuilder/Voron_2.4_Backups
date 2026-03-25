@@ -343,7 +343,7 @@
                   "colspan": 2,
                   "enabled": true,
                   "id": "clock",
-                  "row": 2,
+                  "row": 0,
                   "rowspan": 1
                 },
                 {
