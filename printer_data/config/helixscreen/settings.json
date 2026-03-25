@@ -174,11 +174,11 @@
               "id": "main",
               "widgets": [
                 {
-                  "col": 2,
-                  "colspan": 1,
-                  "enabled": false,
+                  "col": 3,
+                  "colspan": 2,
+                  "enabled": true,
                   "id": "printer_image",
-                  "row": 0,
+                  "row": 1,
                   "rowspan": 2
                 },
                 {
