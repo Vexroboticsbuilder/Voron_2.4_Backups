@@ -403,7 +403,7 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 5,
+                  "col": 3,
                   "colspan": 1,
                   "enabled": true,
                   "id": "tool_switcher",
@@ -415,7 +415,7 @@
                   "colspan": 1,
                   "enabled": true,
                   "id": "nozzle_temps",
-                  "row": 2,
+                  "row": 0,
                   "rowspan": 2
                 },
                 {
