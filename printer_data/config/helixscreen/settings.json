@@ -534,8 +534,12 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 1,
+                  "col": 4,
                   "colspan": 1,
+                  "config": {
+                    "color": 2001125,
+                    "macro": ""
+                  },
                   "enabled": true,
                   "id": "favorite_macro:7",
                   "row": 3,
