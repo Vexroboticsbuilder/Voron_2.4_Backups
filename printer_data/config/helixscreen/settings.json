@@ -498,6 +498,7 @@
                   "colspan": 1,
                   "config": {
                     "color": 16750592,
+                    "icon": "fire",
                     "macro": "PREHEAT_ABS"
                   },
                   "enabled": true,
