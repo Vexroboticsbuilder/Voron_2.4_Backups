@@ -353,7 +353,7 @@
                   "colspan": 2,
                   "enabled": true,
                   "id": "clock",
-                  "row": 2,
+                  "row": 3,
                   "rowspan": 1
                 },
                 {
@@ -534,7 +534,7 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 1,
+                  "col": 3,
                   "colspan": 1,
                   "config": {
                     "color": 2001125,
@@ -543,7 +543,7 @@
                   },
                   "enabled": true,
                   "id": "favorite_macro:7",
-                  "row": 3,
+                  "row": 1,
                   "rowspan": 1
                 }
               ]
