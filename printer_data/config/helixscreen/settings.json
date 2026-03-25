@@ -198,11 +198,11 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 0,
+                  "col": 5,
                   "colspan": 1,
                   "enabled": true,
                   "id": "shutdown",
-                  "row": 2,
+                  "row": 3,
                   "rowspan": 1
                 },
                 {
@@ -439,7 +439,7 @@
   "ui": {
     "cached_grid": {
       "home": {
-        "rows": 3
+        "rows": 4
       }
     }
   },
