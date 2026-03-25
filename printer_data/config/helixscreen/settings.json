@@ -429,7 +429,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 4,
+                  "col": 2,
                   "colspan": 1,
                   "config": {
                     "sensors": [
@@ -438,7 +438,7 @@
                   },
                   "enabled": true,
                   "id": "thermistor:1",
-                  "row": 3,
+                  "row": 2,
                   "rowspan": 1
                 },
                 {
@@ -450,7 +450,7 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 2,
+                  "col": 4,
                   "colspan": 1,
                   "config": {
                     "color": 16733986,
@@ -459,7 +459,7 @@
                   },
                   "enabled": true,
                   "id": "favorite_macro:2",
-                  "row": 3,
+                  "row": 2,
                   "rowspan": 1
                 },
                 {
