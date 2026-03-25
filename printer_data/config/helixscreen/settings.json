@@ -229,9 +229,9 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 4,
+                  "col": 2,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "network",
                   "row": 1,
                   "rowspan": 1
@@ -438,7 +438,7 @@
                   },
                   "enabled": true,
                   "id": "thermistor:1",
-                  "row": 2,
+                  "row": 3,
                   "rowspan": 1
                 },
                 {
