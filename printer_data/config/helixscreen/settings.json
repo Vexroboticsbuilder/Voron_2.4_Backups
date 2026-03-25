@@ -229,7 +229,7 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 4,
+                  "col": 0,
                   "colspan": 1,
                   "enabled": true,
                   "id": "network",
@@ -534,11 +534,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 3,
+                  "col": 1,
                   "colspan": 1,
                   "enabled": true,
                   "id": "favorite_macro:7",
-                  "row": 0,
+                  "row": 3,
                   "rowspan": 1
                 }
               ]
