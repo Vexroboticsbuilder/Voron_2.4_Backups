@@ -317,7 +317,7 @@
                 {
                   "col": 0,
                   "colspan": 1,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "filament",
                   "row": 3,
                   "rowspan": 1
@@ -370,7 +370,7 @@
                 {
                   "col": 1,
                   "colspan": 1,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "clog_detection",
                   "row": 3,
                   "rowspan": 1
