@@ -43,6 +43,9 @@
       "nozzle_min": 245
     }
   },
+  "motion": {
+    "jog_mode": 1
+  },
   "printer": {
     "leds": {
       "startup_brightness": null
@@ -139,7 +142,7 @@
             "temperature_sensor _ANT4_temp",
             "temperature_sensor _ANT5_temp"
           ],
-          "timestamp": "2026-03-26T01:58:49Z"
+          "timestamp": "2026-03-26T02:00:51Z"
         },
         "optional": []
       },
@@ -312,11 +315,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": -1,
+                  "col": 0,
                   "colspan": 1,
                   "enabled": true,
                   "id": "filament",
-                  "row": -1,
+                  "row": 3,
                   "rowspan": 1
                 },
                 {
@@ -365,11 +368,11 @@
                   "rowspan": 2
                 },
                 {
-                  "col": -1,
+                  "col": 1,
                   "colspan": 1,
                   "enabled": true,
                   "id": "clog_detection",
-                  "row": -1,
+                  "row": 3,
                   "rowspan": 1
                 },
                 {
