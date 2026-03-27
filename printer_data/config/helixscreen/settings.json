@@ -582,5 +582,8 @@
       }
     }
   },
+  "update": {
+    "dismissed_version": "0.99.5"
+  },
   "wizard_completed": true
 }
