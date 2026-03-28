@@ -79,6 +79,21 @@
         "hotend": "heater_fan controller_fan_1",
         "part": "fan_generic ANT0_partfan"
       },
+      "filament": {
+        "external_spool": {
+          "assigned": true,
+          "bed_temp": 0,
+          "brand": "Polymaker",
+          "color_rgb": 4690273,
+          "material": "ABS",
+          "nozzle_temp_max": 0,
+          "nozzle_temp_min": 0,
+          "remaining_weight_g": 946.7252807617188,
+          "spool_name": "Polymaker ABS - PolyLite™ ABS Green",
+          "spoolman_id": 1,
+          "total_weight_g": 1000.0
+        }
+      },
       "filament_sensors": {
         "sensors": null
       },
@@ -142,7 +157,7 @@
             "temperature_sensor _ANT4_temp",
             "temperature_sensor _ANT5_temp"
           ],
-          "timestamp": "2026-03-28T17:52:53Z"
+          "timestamp": "2026-03-28T17:53:33Z"
         },
         "optional": []
       },
