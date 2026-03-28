@@ -571,6 +571,14 @@
                   "id": "fan_stack:1",
                   "row": 1,
                   "rowspan": 1
+                },
+                {
+                  "col": -1,
+                  "colspan": 1,
+                  "enabled": false,
+                  "id": "active_spool",
+                  "row": -1,
+                  "rowspan": 1
                 }
               ]
             }
