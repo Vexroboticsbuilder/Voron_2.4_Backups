@@ -447,7 +447,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 3,
+                  "col": 4,
                   "colspan": 1,
                   "config": {
                     "icon": "home_thermometer",
@@ -457,7 +457,7 @@
                   },
                   "enabled": true,
                   "id": "thermistor:1",
-                  "row": 0,
+                  "row": 1,
                   "rowspan": 1
                 },
                 {
@@ -539,7 +539,7 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 2,
+                  "col": 4,
                   "colspan": 1,
                   "config": {
                     "sensors": [
