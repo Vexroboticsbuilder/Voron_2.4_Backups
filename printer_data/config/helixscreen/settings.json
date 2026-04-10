@@ -46,6 +46,17 @@
   "motion": {
     "jog_mode": 1
   },
+  "print_start_history": {
+    "entries": [
+      {
+        "phases": {
+          "3": 10
+        },
+        "timestamp": 1775786195,
+        "total": 10
+      }
+    ]
+  },
   "printer": {
     "leds": {
       "startup_brightness": null
