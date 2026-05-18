@@ -166,7 +166,7 @@
             "temperature_sensor _ANT4_temp",
             "temperature_sensor _ANT5_temp"
           ],
-          "timestamp": "2026-05-18T15:29:39Z"
+          "timestamp": "2026-05-18T15:30:31Z"
         },
         "optional": []
       },
@@ -187,6 +187,7 @@
         ],
         "last_brightness": 100,
         "last_color": "#FFFFFF",
+        "last_white": null,
         "led_on_at_start": false,
         "macro_devices": [],
         "selected": [],
@@ -599,6 +600,9 @@
         }
       },
       "printer_name": "Lunar Dust",
+      "probe_sensors": {
+        "sensors": null
+      },
       "temp_sensors": {
         "bed": "heater_bed",
         "hotend": "extruder"
