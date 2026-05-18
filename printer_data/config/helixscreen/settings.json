@@ -1,6 +1,6 @@
 {
   "active_printer_id": "default",
-  "config_version": 9,
+  "config_version": 16,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
@@ -49,9 +49,7 @@
   "print_start_history": {
     "entries": [
       {
-        "phases": {
-          "3": 10
-        },
+        "phases": {},
         "timestamp": 1775786195,
         "total": 10
       }
@@ -252,8 +250,12 @@
                 {
                   "col": -1,
                   "colspan": 1,
+                  "config": {
+                    "device": "__all__",
+                    "icon": "power_cycle"
+                  },
                   "enabled": false,
-                  "id": "power",
+                  "id": "power_device:1",
                   "row": -1,
                   "rowspan": 1
                 },
@@ -606,6 +608,7 @@
     },
     "show_printer_switcher": false
   },
+  "telemetry_enabled": false,
   "theme": {
     "preset": 0
   },
