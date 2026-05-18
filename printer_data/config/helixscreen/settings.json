@@ -655,6 +655,9 @@
     },
     "show_printer_switcher": false
   },
+  "safety": {
+    "macro_require_confirmation": false
+  },
   "telemetry_enabled": false,
   "theme": {
     "preset": 0
