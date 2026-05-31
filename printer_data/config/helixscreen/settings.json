@@ -96,13 +96,13 @@
           "assigned": true,
           "bed_temp": 0,
           "brand": "Polymaker",
-          "color_rgb": 14868681,
+          "color_rgb": 4690273,
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 773.9873046875,
-          "spool_name": "Polymaker ABS - PolyLite™ ABS Natural",
-          "spoolman_id": 9,
+          "remaining_weight_g": 874.5674438476563,
+          "spool_name": "Polymaker ABS - PolyLite™ ABS Green",
+          "spoolman_id": 1,
           "total_weight_g": 1000.0
         }
       },
