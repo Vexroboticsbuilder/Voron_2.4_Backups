@@ -94,15 +94,15 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 105,
-          "brand": "Spool 3D 1kg",
-          "color_rgb": 16777215,
+          "bed_temp": 0,
+          "brand": "Polymaker",
+          "color_rgb": 4690273,
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 708.186279296875,
-          "spool_name": "Spool 3D 1kg ABS - White ABS",
-          "spoolman_id": 3,
+          "remaining_weight_g": 778.2920532226563,
+          "spool_name": "Polymaker ABS - PolyLite™ ABS Green",
+          "spoolman_id": 1,
           "total_weight_g": 1000.0
         }
       },
