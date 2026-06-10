@@ -94,15 +94,15 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 55,
-          "brand": "Duramic 3D",
-          "color_rgb": 1475330,
-          "material": "PLA",
+          "bed_temp": 0,
+          "brand": "Polymaker",
+          "color_rgb": 14868681,
+          "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 254.3052978515625,
-          "spool_name": "Duramic 3D PLA - Olive Green PLA",
-          "spoolman_id": 32,
+          "remaining_weight_g": 655.8468627929688,
+          "spool_name": "Polymaker ABS - PolyLite™ ABS Natural",
+          "spoolman_id": 9,
           "total_weight_g": 1000.0
         }
       },
