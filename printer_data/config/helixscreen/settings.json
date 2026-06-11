@@ -94,15 +94,15 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 105,
-          "brand": "Elegoo",
-          "color_rgb": 0,
+          "bed_temp": 0,
+          "brand": "Polymaker",
+          "color_rgb": 4690273,
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 464.6343994140625,
-          "spool_name": "Elegoo ABS - Black ABS",
-          "spoolman_id": 10,
+          "remaining_weight_g": 734.3407592773438,
+          "spool_name": "Polymaker ABS - PolyLite™ ABS Green",
+          "spoolman_id": 1,
           "total_weight_g": 1000.0
         }
       },
