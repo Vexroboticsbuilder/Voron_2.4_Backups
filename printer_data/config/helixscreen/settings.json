@@ -94,15 +94,15 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 0,
-          "brand": "Polymaker",
-          "color_rgb": 4690273,
-          "material": "ABS",
+          "bed_temp": 90,
+          "brand": "Bambu Lab",
+          "color_rgb": 42656,
+          "material": "ASA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 734.3407592773438,
-          "spool_name": "Polymaker ABS - PolyLite™ ABS Green",
-          "spoolman_id": 1,
+          "remaining_weight_g": 881.5255126953125,
+          "spool_name": "Bambu Lab ASA - Green ABS",
+          "spoolman_id": 29,
           "total_weight_g": 1000.0
         }
       },
