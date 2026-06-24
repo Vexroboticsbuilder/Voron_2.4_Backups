@@ -3,7 +3,7 @@
   "appearance": {
     "show_widget_labels": true
   },
-  "config_version": 17,
+  "config_version": 18,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
@@ -27,6 +27,7 @@
       "d": 0.0,
       "e": 1.0,
       "f": 0.0,
+      "recheck_pending": false,
       "valid": false
     },
     "jitter_threshold": 5,
