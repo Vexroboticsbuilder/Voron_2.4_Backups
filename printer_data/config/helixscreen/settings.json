@@ -95,21 +95,7 @@
         "hotend": "heater_fan controller_fan_1",
         "part": "fan_generic ANT0_partfan"
       },
-      "filament": {
-        "external_spool": {
-          "assigned": true,
-          "bed_temp": 105,
-          "brand": "Elegoo",
-          "color_rgb": 0,
-          "material": "ABS",
-          "nozzle_temp_max": 0,
-          "nozzle_temp_min": 0,
-          "remaining_weight_g": 19.010101318359375,
-          "spool_name": "Elegoo ABS - Black ABS",
-          "spoolman_id": 52,
-          "total_weight_g": 1000.0
-        }
-      },
+      "filament": {},
       "filament_sensors": {
         "sensors": null
       },
