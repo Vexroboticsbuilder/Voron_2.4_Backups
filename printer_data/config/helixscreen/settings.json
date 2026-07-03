@@ -665,7 +665,7 @@
   "safety": {
     "macro_require_confirmation": false
   },
-  "telemetry_enabled": false,
+  "telemetry_enabled": true,
   "theme": {
     "preset": 0
   },
