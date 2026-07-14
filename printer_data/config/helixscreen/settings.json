@@ -3,7 +3,7 @@
   "appearance": {
     "show_widget_labels": true
   },
-  "config_version": 18,
+  "config_version": 19,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
@@ -11,6 +11,7 @@
     "dim_sec": 300,
     "drm_device": "",
     "gcode_render_mode": 0,
+    "gpu_3d_blocked": false,
     "screensaver_type": 2,
     "sleep_sec": 600,
     "theme": "material-design"
