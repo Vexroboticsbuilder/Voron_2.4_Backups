@@ -98,15 +98,15 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 105,
-          "brand": "Elegoo",
-          "color_rgb": 0,
-          "material": "ABS",
+          "bed_temp": 55,
+          "brand": "Duramic 3D",
+          "color_rgb": 1475330,
+          "material": "PLA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 225.15512084960938,
-          "spool_name": "Elegoo ABS - Black ABS",
-          "spoolman_id": 53,
+          "remaining_weight_g": 254.3052978515625,
+          "spool_name": "Duramic 3D PLA - Olive Green PLA",
+          "spoolman_id": 32,
           "total_weight_g": 1000.0
         }
       },
