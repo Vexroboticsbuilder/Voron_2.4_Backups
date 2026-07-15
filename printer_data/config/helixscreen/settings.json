@@ -99,15 +99,15 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 75,
-          "brand": "Unknown",
-          "color_rgb": 8421504,
-          "material": "PETG",
+          "bed_temp": 0,
+          "brand": "Polymaker",
+          "color_rgb": 4690273,
+          "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 970.0,
-          "spool_name": "Unknown PETG - Teal/Green Pastel PETG",
-          "spoolman_id": 33,
+          "remaining_weight_g": 734.3407592773438,
+          "spool_name": "Polymaker ABS - PolyLite™ ABS Green",
+          "spoolman_id": 1,
           "total_weight_g": 1000.0
         }
       },
