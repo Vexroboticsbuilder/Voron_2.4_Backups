@@ -100,14 +100,14 @@
         "external_spool": {
           "assigned": true,
           "bed_temp": 105,
-          "brand": "Spool 3D 1kg",
-          "color_rgb": 7105130,
+          "brand": "Elegoo",
+          "color_rgb": 0,
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 150.43760681152344,
-          "spool_name": "Spool 3D 1kg ABS - Grey ABS",
-          "spoolman_id": 7,
+          "remaining_weight_g": 225.15512084960938,
+          "spool_name": "Elegoo ABS - Black ABS",
+          "spoolman_id": 53,
           "total_weight_g": 1000.0
         }
       },
