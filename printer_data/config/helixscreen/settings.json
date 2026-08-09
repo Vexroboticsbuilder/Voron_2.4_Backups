@@ -3,7 +3,7 @@
   "appearance": {
     "show_widget_labels": true
   },
-  "config_version": 19,
+  "config_version": 21,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
@@ -38,12 +38,6 @@
     "touch_device": ""
   },
   "language": "en",
-  "led": {
-    "auto_state": {
-      "enabled": null
-    },
-    "selected_strips": null
-  },
   "log_path": "/tmp/helixscreen.log",
   "material_overrides": {
     "ABS": {
@@ -63,11 +57,6 @@
         "total": 10
       }
     ]
-  },
-  "printer": {
-    "leds": {
-      "startup_brightness": null
-    }
   },
   "printers": {
     "default": {
@@ -112,9 +101,7 @@
           "total_weight_g": 1000.0
         }
       },
-      "filament_sensors": {
-        "sensors": null
-      },
+      "filament_sensors": {},
       "hardware": {
         "expected": [
           "heater_bed",
@@ -184,9 +171,7 @@
         "hotend": "extruder"
       },
       "leds": {
-        "auto_state": {
-          "mappings": null
-        },
+        "auto_state": {},
         "color_presets": [
           "#FFFFFF",
           "#FFD700",
@@ -199,7 +184,6 @@
         ],
         "last_brightness": 100,
         "last_color": "#FFFFFF",
-        "last_white": null,
         "led_on_at_start": false,
         "macro_devices": [],
         "selected": [],
@@ -652,9 +636,7 @@
         }
       },
       "printer_name": "Lunar Dust",
-      "probe_sensors": {
-        "sensors": null
-      },
+      "probe_sensors": {},
       "temp_sensors": {
         "bed": "heater_bed",
         "hotend": "extruder"
