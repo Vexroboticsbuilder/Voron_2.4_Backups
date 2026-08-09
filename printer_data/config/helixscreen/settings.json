@@ -89,15 +89,15 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 0,
-          "brand": "Elegoo",
-          "color_rgb": 1279,
-          "material": "ABS",
+          "bed_temp": 55,
+          "brand": "Spool 3D 1kg",
+          "color_rgb": 15313407,
+          "material": "PLA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 340.0502624511719,
-          "spool_name": "Elegoo ABS - ABS",
-          "spoolman_id": 51,
+          "remaining_weight_g": 330.0,
+          "spool_name": "Spool 3D 1kg PLA - Pastel Purple PLA",
+          "spoolman_id": 14,
           "total_weight_g": 1000.0
         }
       },
