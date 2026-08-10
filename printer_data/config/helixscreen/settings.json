@@ -95,7 +95,7 @@
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 979.1563110351563,
+          "remaining_weight_g": 978.2822875976563,
           "spool_name": "Polymaker ABS - PolyLite™ ABS Galaxy Purple",
           "spoolman_id": 55,
           "total_weight_g": 1000.0
@@ -681,7 +681,7 @@
     }
   },
   "update": {
-    "dismissed_version": "0.99.90"
+    "dismissed_version": "0.99.108"
   },
   "wizard_completed": true
 }
