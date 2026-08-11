@@ -47,7 +47,7 @@
     }
   },
   "motion": {
-    "jog_mode": 2
+    "jog_mode": 0
   },
   "print_start_history": {
     "entries": [
