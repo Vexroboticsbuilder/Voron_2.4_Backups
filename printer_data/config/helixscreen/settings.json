@@ -97,7 +97,7 @@
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 917.837890625,
+          "remaining_weight_g": 902.3981323242188,
           "spool_name": "PolyLite™ ABS Galaxy Purple",
           "spoolman_id": 55,
           "total_weight_g": 1000.0
@@ -164,7 +164,7 @@
             "temperature_sensor _ANT4_temp",
             "temperature_sensor _ANT5_temp"
           ],
-          "timestamp": "2026-08-13T17:06:56Z"
+          "timestamp": "2026-08-13T20:54:02Z"
         },
         "optional": []
       },
