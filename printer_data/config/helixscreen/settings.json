@@ -92,14 +92,14 @@
           "bed_temp": 0,
           "brand": "Polymaker",
           "catalog_id": "",
-          "color_rgb": 6636965,
+          "color_rgb": 109754,
           "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 871.5547485351563,
-          "spool_name": "PolyLite™ ABS Galaxy Purple",
-          "spoolman_id": 55,
+          "remaining_weight_g": 906.0131225585938,
+          "spool_name": "PolyLite™ ABS Teal",
+          "spoolman_id": 54,
           "total_weight_g": 1000.0
         }
       },
@@ -164,7 +164,7 @@
             "temperature_sensor _ANT4_temp",
             "temperature_sensor _ANT5_temp"
           ],
-          "timestamp": "2026-08-14T18:27:32Z"
+          "timestamp": "2026-08-14T19:00:53Z"
         },
         "optional": []
       },
