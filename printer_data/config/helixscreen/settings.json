@@ -89,17 +89,17 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 105,
-          "brand": "Spool 3D 1kg",
+          "bed_temp": 55,
+          "brand": "Duramic 3D",
           "catalog_id": "",
-          "color_rgb": 16777215,
-          "material": "ABS",
+          "color_rgb": 1475330,
+          "material": "PLA",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 644.8196411132813,
-          "spool_name": "White ABS",
-          "spoolman_id": 3,
+          "remaining_weight_g": 254.3052978515625,
+          "spool_name": "Olive Green PLA",
+          "spoolman_id": 32,
           "total_weight_g": 1000.0
         }
       },
