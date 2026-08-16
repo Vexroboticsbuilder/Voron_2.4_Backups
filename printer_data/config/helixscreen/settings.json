@@ -89,17 +89,17 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 55,
-          "brand": "Duramic 3D",
+          "bed_temp": 0,
+          "brand": "Polymaker",
           "catalog_id": "",
-          "color_rgb": 1475330,
-          "material": "PLA",
+          "color_rgb": 6636965,
+          "material": "ABS",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
           "product_name": "",
-          "remaining_weight_g": 254.3052978515625,
-          "spool_name": "Olive Green PLA",
-          "spoolman_id": 32,
+          "remaining_weight_g": 826.1373901367188,
+          "spool_name": "PolyLite™ ABS Galaxy Purple",
+          "spoolman_id": 55,
           "total_weight_g": 1000.0
         }
       },
