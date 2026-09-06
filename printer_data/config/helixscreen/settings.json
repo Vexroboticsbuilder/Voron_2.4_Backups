@@ -647,6 +647,14 @@
                   "id": "control_buttons",
                   "row": -1,
                   "rowspan": 1
+                },
+                {
+                  "col": -1,
+                  "colspan": 1,
+                  "enabled": false,
+                  "id": "bypass",
+                  "row": -1,
+                  "rowspan": 1
                 }
               ]
             }
