@@ -691,6 +691,7 @@
     }
   },
   "update": {
+    "channel": 1,
     "dismissed_version": "0.99.108"
   },
   "wizard_completed": true
