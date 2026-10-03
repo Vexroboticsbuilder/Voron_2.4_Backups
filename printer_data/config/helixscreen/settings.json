@@ -379,7 +379,7 @@
                   "enabled": true,
                   "id": "tool_switcher",
                   "row": 4,
-                  "rowspan": 2
+                  "rowspan": 4
                 },
                 {
                   "col": 0,
