@@ -22,17 +22,5 @@
     "spool_name": "White ABS",
     "spoolman_id": 3,
     "total_weight_g": 1000.0
-  },
-  "4": {
-    "remaining_weight_g": 970.0,
-    "spool_name": "Teal/Green Pastel PETG",
-    "spoolman_id": 33,
-    "total_weight_g": 1000.0
-  },
-  "5": {
-    "remaining_weight_g": 300.0,
-    "spool_name": "Lime Green PLA",
-    "spoolman_id": 49,
-    "total_weight_g": 1000.0
   }
 }
