@@ -426,7 +426,7 @@
                   },
                   "enabled": true,
                   "id": "favorite_macro:2",
-                  "row": 2,
+                  "row": 4,
                   "rowspan": 2
                 },
                 {
@@ -469,7 +469,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 10,
+                  "col": 6,
                   "colspan": 2,
                   "config": {
                     "color": 16750592,
@@ -478,7 +478,7 @@
                   },
                   "enabled": true,
                   "id": "favorite_macro:6",
-                  "row": 2,
+                  "row": 6,
                   "rowspan": 2
                 },
                 {
