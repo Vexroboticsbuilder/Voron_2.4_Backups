@@ -382,11 +382,11 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 8,
+                  "col": 0,
                   "colspan": 2,
                   "enabled": true,
                   "id": "nozzle_temps",
-                  "row": 2,
+                  "row": 4,
                   "rowspan": 4
                 },
                 {
@@ -417,7 +417,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 0,
+                  "col": 8,
                   "colspan": 2,
                   "config": {
                     "color": 8421504,
@@ -426,7 +426,7 @@
                   },
                   "enabled": true,
                   "id": "favorite_macro:2",
-                  "row": 4,
+                  "row": 2,
                   "rowspan": 2
                 },
                 {
