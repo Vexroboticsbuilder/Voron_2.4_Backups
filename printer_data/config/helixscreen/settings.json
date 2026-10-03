@@ -13,6 +13,14 @@
     "gcode_render_mode": 0,
     "gpu_3d_blocked": false,
     "gpu_blur_blocked": false,
+    "screensaver_levels": {
+      "starfield": {
+        "board": "drm/4c/0bm/800x480/32bpp",
+        "level": 1,
+        "too_heavy": false,
+        "version": "1.1.0-beta.3 (63b3d75)"
+      }
+    },
     "screensaver_type": 2,
     "sleep_sec": 600,
     "theme": "material-design",
@@ -49,6 +57,20 @@
         "phases": {},
         "timestamp": 1775786195,
         "total": 10
+      },
+      {
+        "phases": {},
+        "timestamp": 1775786195,
+        "total": 10
+      },
+      {
+        "phases": {
+          "HOMING": 78
+        },
+        "temp_bucket": 2,
+        "timestamp": 1791038568,
+        "total": 159,
+        "window": 1
       }
     ]
   },
@@ -680,6 +702,13 @@
   "telemetry_enabled": true,
   "theme": {
     "preset": 0
+  },
+  "thermal": {
+    "rates": {
+      "extruder": {
+        "heat_rate": 0.4889793395996094
+      }
+    }
   },
   "tour": {
     "completed": true,
