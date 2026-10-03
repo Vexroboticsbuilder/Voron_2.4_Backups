@@ -206,12 +206,12 @@
               "id": "main",
               "widgets": [
                 {
-                  "col": 6,
+                  "col": 4,
                   "colspan": 4,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "printer_image",
-                  "row": 2,
-                  "rowspan": 4
+                  "row": 0,
+                  "rowspan": 2
                 },
                 {
                   "col": 0,
