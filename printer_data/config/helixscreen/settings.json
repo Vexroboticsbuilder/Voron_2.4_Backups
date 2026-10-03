@@ -334,11 +334,11 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 0,
+                  "col": 4,
                   "colspan": 4,
                   "enabled": true,
                   "id": "clock",
-                  "row": 6,
+                  "row": 0,
                   "rowspan": 2
                 },
                 {
@@ -495,7 +495,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 6,
+                  "col": 4,
                   "colspan": 2,
                   "config": {
                     "color": 2001125,
@@ -508,7 +508,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 4,
+                  "col": 6,
                   "colspan": 2,
                   "enabled": true,
                   "id": "fan_stack:1",
