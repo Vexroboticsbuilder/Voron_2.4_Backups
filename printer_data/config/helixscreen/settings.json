@@ -379,7 +379,7 @@
                   "enabled": true,
                   "id": "tool_switcher",
                   "row": 4,
-                  "rowspan": 4
+                  "rowspan": 2
                 },
                 {
                   "col": 0,
@@ -390,7 +390,7 @@
                   "rowspan": 4
                 },
                 {
-                  "col": 4,
+                  "col": 6,
                   "colspan": 2,
                   "config": {
                     "icon": "home_thermometer",
@@ -400,7 +400,7 @@
                   },
                   "enabled": true,
                   "id": "thermistor:1",
-                  "row": 0,
+                  "row": 2,
                   "rowspan": 2
                 },
                 {
@@ -482,7 +482,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 6,
+                  "col": 8,
                   "colspan": 2,
                   "config": {
                     "sensors": [
@@ -491,7 +491,7 @@
                   },
                   "enabled": true,
                   "id": "thermistor:2",
-                  "row": 0,
+                  "row": 2,
                   "rowspan": 2
                 },
                 {
@@ -508,7 +508,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 6,
+                  "col": 10,
                   "colspan": 2,
                   "enabled": true,
                   "id": "fan_stack:1",
