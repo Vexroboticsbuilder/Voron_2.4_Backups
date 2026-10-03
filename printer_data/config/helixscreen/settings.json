@@ -334,7 +334,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 4,
+                  "col": 8,
                   "colspan": 4,
                   "enabled": true,
                   "id": "clock",
@@ -404,7 +404,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 2,
+                  "col": 4,
                   "colspan": 2,
                   "config": {
                     "color": 15022389,
@@ -413,7 +413,7 @@
                   },
                   "enabled": true,
                   "id": "favorite_macro:1",
-                  "row": 4,
+                  "row": 0,
                   "rowspan": 2
                 },
                 {
@@ -482,7 +482,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 8,
+                  "col": 2,
                   "colspan": 2,
                   "config": {
                     "sensors": [
@@ -491,7 +491,7 @@
                   },
                   "enabled": true,
                   "id": "thermistor:2",
-                  "row": 0,
+                  "row": 4,
                   "rowspan": 2
                 },
                 {
