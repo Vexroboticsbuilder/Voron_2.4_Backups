@@ -180,7 +180,7 @@
             "temperature_sensor _ANT4_temp",
             "temperature_sensor _ANT5_temp"
           ],
-          "timestamp": "2026-10-03T13:34:59Z"
+          "timestamp": "2026-10-09T03:48:36Z"
         },
         "optional": [
           "heater_fan controller_fan_2",
