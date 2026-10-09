@@ -3,6 +3,7 @@
   "appearance": {
     "show_widget_labels": true
   },
+  "brightness": 100,
   "config_version": 26,
   "dark_mode": true,
   "display": {
