@@ -4,7 +4,7 @@
     "show_widget_labels": true
   },
   "brightness": 100,
-  "config_version": 26,
+  "config_version": 27,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
