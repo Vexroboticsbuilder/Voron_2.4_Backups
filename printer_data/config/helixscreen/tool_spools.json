@@ -1,0 +1,26 @@
+{
+  "0": {
+    "remaining_weight_g": 20.945518493652344,
+    "spool_name": "Black ABS",
+    "spoolman_id": 53,
+    "total_weight_g": 1000.0
+  },
+  "1": {
+    "remaining_weight_g": 215.66873168945313,
+    "spool_name": "ABS",
+    "spoolman_id": 51,
+    "total_weight_g": 1000.0
+  },
+  "2": {
+    "remaining_weight_g": 25.0,
+    "spool_name": "Purple ABS",
+    "spoolman_id": 57,
+    "total_weight_g": 25.0
+  },
+  "3": {
+    "remaining_weight_g": 644.0172119140625,
+    "spool_name": "White ABS",
+    "spoolman_id": 3,
+    "total_weight_g": 1000.0
+  }
+}
