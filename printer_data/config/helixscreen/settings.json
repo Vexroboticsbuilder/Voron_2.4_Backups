@@ -16,10 +16,10 @@
     "gpu_blur_blocked": false,
     "screensaver_levels": {
       "starfield": {
-        "board": "drm/4c/0bm/800x480/32bpp",
+        "board": "egl/4c/0bm/800x480/32bpp",
         "level": 1,
         "too_heavy": false,
-        "version": "1.1.0-beta.3 (63b3d75)"
+        "version": "1.1.0-beta.7 (d30c77a)"
       }
     },
     "screensaver_type": 2,
@@ -71,6 +71,16 @@
         "temp_bucket": 2,
         "timestamp": 1791038568,
         "total": 159,
+        "window": 1
+      },
+      {
+        "phases": {
+          "HOMING": 24,
+          "QGL": 79
+        },
+        "temp_bucket": 2,
+        "timestamp": 1791735793,
+        "total": 205,
         "window": 1
       }
     ]
@@ -707,7 +717,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.4889793395996094
+        "heat_rate": 0.4840053617954254
       }
     }
   },
